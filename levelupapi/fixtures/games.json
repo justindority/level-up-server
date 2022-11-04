@@ -1,0 +1,26 @@
+[
+    {
+        "model": "levelupapi.game",
+        "pk": 1,
+        "fields": {
+            "game_type": 3,
+            "title": "Destiny 2",
+            "maker": "Bungie",
+            "gamer": 1,
+            "number_of_players": 6,
+            "skill_level": 6
+        }
+    },
+    {
+        "model": "levelupapi.game",
+        "pk": 2,
+        "fields": {
+            "game_type": 3,
+            "title": "World of Warcraft",
+            "maker": "Blizzard",
+            "gamer": 1,
+            "number_of_players": 40,
+            "skill_level": 9
+        }
+    }
+]
